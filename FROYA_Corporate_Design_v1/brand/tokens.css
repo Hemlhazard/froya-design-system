@@ -1,0 +1,13 @@
+/* FRØYA design tokens */
+:root {
+  --froya-lingon: #E71D51;
+  --froya-obsidian: #0F0F0F;
+  --froya-linen: #F7F4ED;
+  --froya-mist: #D9A3B3;
+  --froya-white: #FFFFFF;
+  --froya-font-heading: 'Fraunces', Georgia, serif;
+  --froya-font-body: 'Inter', Arial, sans-serif;
+  --froya-radius-card: 12px;
+  --froya-radius-button: 9px;
+  --froya-space-unit: 4px;
+}
