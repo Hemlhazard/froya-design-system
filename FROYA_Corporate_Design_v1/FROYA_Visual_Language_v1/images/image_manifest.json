@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "file": "01_handwerk.png",
+    "origin": "AI-generated collage crop",
+    "status": "reference_only",
+    "pixels": [
+      544,
+      457
+    ]
+  },
+  {
+    "id": 2,
+    "file": "02_zusammenarbeit.png",
+    "origin": "AI-generated collage crop",
+    "status": "reference_only",
+    "pixels": [
+      542,
+      457
+    ]
+  },
+  {
+    "id": 3,
+    "file": "03_arbeitsalltag.png",
+    "origin": "AI-generated collage crop",
+    "status": "reference_only",
+    "pixels": [
+      567,
+      457
+    ]
+  },
+  {
+    "id": 4,
+    "file": "04_entlastung.png",
+    "origin": "AI-generated collage crop",
+    "status": "reference_only",
+    "pixels": [
+      544,
+      473
+    ]
+  },
+  {
+    "id": 5,
+    "file": "05_licht_geometrie.png",
+    "origin": "AI-generated collage crop",
+    "status": "reference_only",
+    "pixels": [
+      542,
+      473
+    ]
+  },
+  {
+    "id": 6,
+    "file": "06_licht_atmosphaere.png",
+    "origin": "AI-generated collage crop",
+    "status": "reference_only",
+    "pixels": [
+      567,
+      473
+    ]
+  }
+]
